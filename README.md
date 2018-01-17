@@ -1,2 +1,2 @@
 # Batch Normalization
-Batch normalization with manual gradient calculation.
+MLP batch normalization with manual gradient calculation.
